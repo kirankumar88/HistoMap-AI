@@ -10,6 +10,17 @@ HistoMap AI is an interpretable, AI-driven platform designed to classify breast 
 
 The platform combines machine learning with biological interpretation to identify key biomarkers, quantify omics-layer contributions, and perform pathway enrichment analysis to uncover underlying disease mechanisms.
 
+## Live app link
+Streamlit cloud : https://histomap-ai-sj2g3bvn7nw4jef4tqvdey.streamlit.app/
+
+## Dataset: The Cancer Genome Atlas (TCGA)
+
+Reference:
+Ciriello G., Gatza M.L., Beck A.H., et al. (2015).
+Comprehensive Molecular Portraits of Invasive Lobular Breast Cancer.
+Cell, 163(2), 506–519.
+https://doi.org/10.1016/j.cell.2015.09.033
+
 ---
 
 ## Key Features
