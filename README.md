@@ -11,7 +11,7 @@ brca-multiomics-ai is an interpretable, AI-driven platform designed to classify 
 The platform combines machine learning with biological interpretation to identify key biomarkers, quantify omics-layer contributions, and perform pathway enrichment analysis to uncover underlying disease mechanisms.
 
 ## Live app link
-Streamlit cloud : https://histomap-ai-sj2g3bvn7nw4jef4tqvdey.streamlit.app/
+Streamlit cloud : (https://brca-multiomics-ai-uvpdtrfnmmbzkdfj834rpc.streamlit.app/)
 
 ## Dataset: The Cancer Genome Atlas (TCGA)
 
