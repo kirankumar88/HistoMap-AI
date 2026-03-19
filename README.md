@@ -1,4 +1,4 @@
-# HistoMap AI
+# brca-multiomics-ai
 
 Mapping Breast Cancer Histology through Multi-Omics Intelligence
 
@@ -6,7 +6,7 @@ Mapping Breast Cancer Histology through Multi-Omics Intelligence
 
 ## Overview
 
-HistoMap AI is an interpretable, AI-driven platform designed to classify breast cancer subtypes (Ductal vs Lobular) using integrated multi-omics data, including gene expression, copy number variation (CNV), mutation profiles, and proteomics.
+brca-multiomics-ai is an interpretable, AI-driven platform designed to classify breast cancer subtypes (Ductal vs Lobular) using integrated multi-omics data, including gene expression, copy number variation (CNV), mutation profiles, and proteomics.
 
 The platform combines machine learning with biological interpretation to identify key biomarkers, quantify omics-layer contributions, and perform pathway enrichment analysis to uncover underlying disease mechanisms.
 
